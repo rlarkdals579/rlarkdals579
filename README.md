@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=81c147&height=300&section=header&text=Kangmin's%20Hub&fontColor=FFFF&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=81c147&height=300&section=header&text=Kangmin%20Kim&fontColor=FFFF&fontSize=90)
 <div align=center>
 
 # Kangmin Kim's GitHub
