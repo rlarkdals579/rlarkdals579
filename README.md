@@ -2,10 +2,14 @@
 <div align=center>
 
 # Kangmin Kim's GitHub
-# SBU Information System, 2022
 
-Interested in Backend / Web
-<br></br>
+
+## 🔥 Currently interested in<br>
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+
+</br>
 
 
 #### 🛠️Tech Stack
