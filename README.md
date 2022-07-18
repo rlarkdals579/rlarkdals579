@@ -4,7 +4,7 @@
 # Kangmin Kim's GitHub
 
 
-## 🔥 Currently interested in<br>
+## 🔥 These days, I am studying <br>
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
